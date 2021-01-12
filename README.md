@@ -14,6 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-
-Inline-style: 
-![alt text](https://dev.azure.com/kjabjoaz400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines%202.0/_apis/build/status/kjartab.calculator?branchName=main "Logo Title Text 1") 
+ 
+![Build status](https://dev.azure.com/kjabjoaz400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines%202.0/_apis/build/status/kjartab.calculator?branchName=main "Badge... great") 
